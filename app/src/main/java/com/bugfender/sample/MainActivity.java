@@ -47,6 +47,6 @@ public class MainActivity extends AppCompatActivity {
 
     // Removed the associated device float key
     Bugfender.removeDeviceKey("user.children");
-Log.i("TAG1" , "TAG1");
+Log.i("TAG2" , "TAG2");
   }
 }
